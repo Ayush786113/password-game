@@ -22,6 +22,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-vercel": "^3.0.3",
 		"appwrite": "^13.0.0"
 	}
 }
