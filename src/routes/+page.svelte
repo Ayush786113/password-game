@@ -93,13 +93,13 @@
             response = "Everything and Everyone is special and so your password should be. Give it (a) special character(s)."
 
         else if(!sumtosixtynine(answer))
-            response = "Include Yin-Yang... But using single digit numerics ;)"
+            response = "Include Yin-Yang... But as sum of single digit numerics ;)"
 
         else if(!drangonofthewest(answer))
             response = "Who is called the 'Dragon of the West'?"
 
         else if(!sundayinclusion(answer))
-            response = "Which star has a day of the week named after it?"
+            response = "Which day of the week has a star in its name?"
 
         else if(!ibelieve(answer))
             response = "What do you believe in? Think and answer. Start with 'ibelieve'."
